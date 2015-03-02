@@ -1,0 +1,25 @@
+{
+  "name": "xml",
+  "version": "0.0.0",
+  "description": "XML parsing and building.",
+  "authors": {
+    "name": "Jared Hanson",
+    "email": "jaredhanson@gmail.com",
+    "homepage": "http://www.jaredhanson.net/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anchorjs/xml.git"
+  },
+  "license": "MIT",
+  "main": "main.js",
+  "ignore": [
+    ".gitignore",
+    ".jshintrc",
+    "Makefile",
+    "README.md",
+    "component.json",
+    "package.json",
+    "test"
+  ]
+}
